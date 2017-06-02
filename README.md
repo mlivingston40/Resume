@@ -28,13 +28,14 @@ August 2014 – June 2015
 ```
 ## EDUCATION
 ### University of Chicago - Chicago, IL
-###### Chemistry PhD Candidate
 **Master of Science degree, August 2013**
 
+| Chemistry PhD Candidate
+
 ### University of Wisconsin-Madison - Madison, WI 
+**Bachelor of Science degree, May 2012**
 
 | Major: Chemistry
 | Overall GPA: 3.7/4.0, Major GPA 3.8/4.0
 | Dean’s List, Graduated with Distinction, Golden Key International Honor Society, Delta Upsilon Fraternity
 
-**Bachelor of Science degree, May 2012**
