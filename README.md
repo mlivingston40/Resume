@@ -8,7 +8,6 @@ matt.j.livingston.40@gmail.com
 
 ## SKILLS
 ---
-
 | **Business Intelligence:** Tableau, BIME, Datorama, Google Data Studio  
 | **Pull Data:** SQL - MySQL, Google BigQuery, Vertica SQL, SQL Server, PostgreSQL  
 | **Automation:** Python scripts
