@@ -26,6 +26,14 @@ October 2016 - Present
 **Data Analyst – Mobile Rewards Network**
 ```markdown
 January 2016 – June 2016
+Provided analytical support for over 20 apps and web properties 
+Consolidated financial reporting that comes from over 10 ad networks 
+Built daily ad hoc queries in various SQL platforms – BigQuery, RazorSQL, and MySQL
+Integrated database tables, Google Analytics, Attribution reporting, Google Sheets and other data sources into BIME (BI tool) to reveal business insights
+Manipulated GB size files in RStudio that was not possible in Excel 
+Coded market basket analysis using R to determine user adoption of apps
+Coded extensive text-cleaning and text-standardizing commands in R
+Created business decks that analyze consumer behavior for industry insights
 ```
 ### [Xaxis](https://www.xaxis.com/) - Los Angeles, CA  
 **Analyst, Insights & Analytics – Programmatic Media**
