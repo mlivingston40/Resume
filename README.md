@@ -3,14 +3,11 @@
 Austin, TX 78701
 matt.j.livingston.40@gmail.com
 ```
-
 ## Experience
-
-### Quantcast, Austin, TX 
-###Senior Analyst – Programmatic Media**
-_October 2016 - Present_
-```markdown    
-
+#### Quantcast, Austin, TX 
+##### Senior Analyst – Programmatic Media
+```markdown 
+October 2016 - Present
 ```
 ```markdown
 ### Perk.com, Austin, TX  
