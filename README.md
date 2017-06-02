@@ -12,7 +12,8 @@ matt.j.livingston.40@gmail.com
 | **Business Intelligence:** test
 | **Automation:** test
 | **Programming:** test
-| **Programming:** test
+| **Web Applications:** test
+| **<dfd>:** test
 
 ## EXPERIENCE
 ---
