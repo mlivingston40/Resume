@@ -1,6 +1,6 @@
 ## Matt Livingston
-### Austin, TX 78701
-#### matt.j.livingston.40@gmail.com 
+_**Austin, TX 78701**_
+_**matt.j.livingston.40@gmail.com**_
 
 You can use the [editor on GitHub](https://github.com/mlivingston40/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
