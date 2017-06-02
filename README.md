@@ -3,7 +3,8 @@
 Austin, TX 78704
 matt.j.livingston.40@gmail.com
 ```
-## Experience
+_Experienced digital professional with a scientific training – Analytically minded with a passion for solving complex problems that have no immediate answer_
+## EXPERIENCE
 ### [Quantcast](https://www.quantcast.com/) - Austin, TX 
 **Senior Analyst – Programmatic Media**
 ```markdown 
@@ -24,3 +25,13 @@ June 2015 – January 2016
 ```markdown
 August 2014 – June 2015
 ```
+## EDUCATION
+### University of Chicago - Chicago, IL
+Chemistry PhD Candidate
+**Master of Science degree, August 2013**
+
+### University of Wisconsin-Madison - Madison, WI
+Major: Chemistry
+Overall GPA: 3.7/4.0, Major GPA 3.8/4.0
+Dean’s List, Graduated with Distinction, Golden Key International Honor Society, Delta Upsilon Fraternity
+**Bachelor of Science degree, May 2012**
