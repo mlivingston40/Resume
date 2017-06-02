@@ -1,10 +1,10 @@
-# [Matt Livingston](https://www.google.com)
+# Matt Livingston 
 ```markdown 
 Austin, TX 78704
 matt.j.livingston.40@gmail.com
 ```
 ## Experience
-### Quantcast, Austin, TX 
+### [Quantcast](quantcast.com), Austin, TX 
 **Senior Analyst – Programmatic Media**
 ```markdown 
 October 2016 - Present
