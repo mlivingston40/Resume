@@ -8,6 +8,7 @@ matt.j.livingston.40@gmail.com
 
 ## SKILLS
 ---
+
 | **Business Intelligence:** test
 | **Automation:** test
 | **Programming:** test
