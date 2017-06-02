@@ -5,22 +5,22 @@ matt.j.livingston.40@gmail.com
 ```
 ## Experience
 #### Quantcast, Austin, TX 
-##### Senior Analyst – Programmatic Media
+**Senior Analyst – Programmatic Media**
 ```markdown 
 October 2016 - Present
 ```
-```markdown
-### Perk.com, Austin, TX  
+#### Perk.com, Austin, TX  
 **Data Analyst – Mobile Rewards Network**
+```markdown
 _January 2016 – June 2016_
 ```
-```markdown
-### Xaxis, Los Angeles, CA  
+#### Xaxis, Los Angeles, CA  
 **Analyst, Insights & Analytics – Programmatic Media**
+```markdown
 _June 2015 – January 2016_
 ```
-```markdown
-### Target Media Partners, Los Angeles, CA  
+#### Target Media Partners, Los Angeles, CA  
 **Business Analyst – Digital Advertising**
+```markdown
 _August 2014 – June 2015_
 ```
