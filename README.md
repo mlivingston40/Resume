@@ -27,8 +27,8 @@ October 2016 - Present
 -- Recommend campaign optimizations to client teams to drive better performance  
 -- Develop custom PostgreSQL statements for reporting and campaign insights  
 -- Build ad hoc Tableau dashboards for various stakeholders in the company  
--- Developed and deployed (on AWS) a Flask/Python web application which predicts performance 
-at incremental budget for any live campaign within the company 
+-- Developed and deployed (on AWS) a Flask/Python web application which predicts 
+performance at incremental budget for any live campaign within the company 
 ```
 ### [Perk](https://perk.com/) - Austin, TX  
 **Data Analyst – Mobile Rewards Network**
