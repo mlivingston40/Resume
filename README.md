@@ -31,7 +31,7 @@ August 2014 – June 2015
 ###### Chemistry PhD Candidate
 **Master of Science degree, August 2013**
 
-### University of Wisconsin-Madison - Madison, WI ###
+### University of Wisconsin-Madison - Madison, WI 
 
 | Major: Chemistry
 | Overall GPA: 3.7/4.0, Major GPA 3.8/4.0
