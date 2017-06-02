@@ -10,11 +10,11 @@ matt.j.livingston.40@gmail.com
 ---
 
 | **Business Intelligence:** Tableau, BIME, Datorama, Google Data Studio  
-| **Pull Data:** SQL - MySQL, Google BigQuery, Vertica SQL,  
+| **Pull Data:** SQL - MySQL, Google BigQuery, Vertica SQL, SQL Server, PostgreSQL  
 | **Automation:** Python scripts
 | **Programming:** Python, R
-| **Web Applications:** Flask/Python/Bootstrap framework, AWS Deployment
-| **Data Science:** Market Basket Analysis, Regression, A/B testing  
+| **Web Applications:** Flask/Python/Bootstrap framework - AWS Deployment
+| **Data Science:** Market Basket Analysis, Multivariate Regression, Logistic Regression, Bayes Theorem, A/B testing  
 
 ## EXPERIENCE
 ---
@@ -44,16 +44,27 @@ and other data sources into BIME (BI tool) to reveal business insights
 ```markdown
 June 2015 – January 2016
 
-- Primary analyst on accounts totaling $10 million in revenue
-- Provided ad hoc analysis for two account managers and two strategists
-- Unified data streams coming from Ad Servers, DSPs, viewability vendors, and Salesforce into Datorama for real time campaign analysis
-- Utilized cross media attribution tools to illustrate synergies between various channels
-- Created and presented campaign decks containing audience insights, KPI analyses, and other insights to drive future campaign strategy
+-- Primary analyst on accounts totaling $10 million in revenue
+-- Provided ad hoc analysis for two account managers and two strategists
+-- Unified data streams coming from Ad Servers, DSPs, viewability vendors, and Salesforce 
+into Datorama for real time campaign analysis
+-- Utilized cross media attribution tools to illustrate synergies between various channels
+-- Created and presented campaign decks containing audience insights, KPI analyses, and other insights to drive future campaign strategy
 ```
 ### [Target Media Partners](https://www.targetmediapartners.com/) - Los Angeles, CA  
 **Business Analyst – Digital Advertising**
 ```markdown
 August 2014 – June 2015
+
+Directly managed over $3 million in account revenue    
+Managed fastest growing digital product – Responsible for 1500% of growth
+Wrote Excel macros to automate campaign management for $2 million in account revenue – Saved 10 hours a week in management time
+Developed systematic approaches for campaign management 
+Defined process flows for campaign fulfillment using JIRA
+Analyzed historical data to find actionable management trends
+Used SQL Server for campaign management, ad hoc requests, data analysis, and stored procedures  
+Managed campaigns in AdWords, DFP, DCM/Bid Manager, Thinknear, and TubeMogul advertising platforms
+Analyzed web analytics and lead generation via Google Analytics 
 ```
 ## EDUCATION
 ---
