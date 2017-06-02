@@ -32,7 +32,7 @@ August 2014 – June 2015
 **Master of Science degree, August 2013**
 
 ### University of Wisconsin-Madison - Madison, WI
-Major: Chemistry
-Overall GPA: 3.7/4.0, Major GPA 3.8/4.0
-Dean’s List, Graduated with Distinction, Golden Key International Honor Society, Delta Upsilon Fraternity
+| Major: Chemistry
+| Overall GPA: 3.7/4.0, Major GPA 3.8/4.0
+| Dean’s List, Graduated with Distinction, Golden Key International Honor Society, Delta Upsilon Fraternity
 **Bachelor of Science degree, May 2012**
