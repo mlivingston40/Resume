@@ -3,7 +3,7 @@
 Austin, TX 78704
 matt.j.livingston.40@gmail.com
 ```
->_**Experienced digital professional with a scientific training – Analytically minded with a passion for solving complex >problems that have no immediate answer**_
+>_**Experienced digital professional with a scientific training – Analytically minded with a passion for solving complex problems that have no immediate answer**_
 
 ## EXPERIENCE
 ### [Quantcast](https://www.quantcast.com/) - Austin, TX 
