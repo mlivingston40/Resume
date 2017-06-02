@@ -1,6 +1,7 @@
 ## Matt Livingston
 
 _**Austin, TX 78701**_
+
 **matt.j.livingston.40@gmail.com**
 
 You can use the [editor on GitHub](https://github.com/mlivingston40/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
