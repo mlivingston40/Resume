@@ -9,11 +9,12 @@ matt.j.livingston.40@gmail.com
 ## SKILLS
 ---
 
-| **Business Intelligence:** test
-| **Automation:** test
-| **Programming:** test
-| **Web Applications:** test
-| **<dfd>:** test
+| **Business Intelligence:** Tableau, BIME, Datorama, Google Data Studio  
+| **Pull Data:** SQL - MySQL, Google BigQuery, Vertica SQL,  
+| **Automation:** Python scripts
+| **Programming:** Python, R
+| **Web Applications:** Flask/Python/Bootstrap framework, AWS Deployment
+| **Data Science:** Market Basket Analysis, Regression, A/B testing  
 
 ## EXPERIENCE
 ---
@@ -27,19 +28,27 @@ October 2016 - Present
 **Data Analyst – Mobile Rewards Network**
 ```markdown
 January 2016 – June 2016
-Provided analytical support for over 20 apps and web properties 
-Consolidated financial reporting that comes from over 10 ad networks 
-Built daily ad hoc queries in various SQL platforms – BigQuery, RazorSQL, and MySQL
-Integrated database tables, Google Analytics, Attribution reporting, Google Sheets and other data sources into BIME (BI tool) to reveal business insights
-Manipulated GB size files in RStudio that was not possible in Excel 
-Coded market basket analysis using R to determine user adoption of apps
-Coded extensive text-cleaning and text-standardizing commands in R
-Created business decks that analyze consumer behavior for industry insights
+
+-- Provided analytical support for over 20 apps and web properties 
+-- Consolidated financial reporting that comes from over 10 ad networks 
+-- Built daily ad hoc queries in various SQL platforms – BigQuery, RazorSQL, and MySQL
+-- Integrated database tables, Google Analytics, Attribution reporting, Google Sheets 
+and other data sources into BIME (BI tool) to reveal business insights
+-- Manipulated GB size files in RStudio that was not possible in Excel 
+-- Coded market basket analysis using R to determine user adoption of apps
+-- Coded extensive text-cleaning and text-standardizing commands in R
+-- Created business decks that analyze consumer behavior for industry insights
 ```
 ### [Xaxis](https://www.xaxis.com/) - Los Angeles, CA  
 **Analyst, Insights & Analytics – Programmatic Media**
 ```markdown
 June 2015 – January 2016
+
+- Primary analyst on accounts totaling $10 million in revenue
+- Provided ad hoc analysis for two account managers and two strategists
+- Unified data streams coming from Ad Servers, DSPs, viewability vendors, and Salesforce into Datorama for real time campaign analysis
+- Utilized cross media attribution tools to illustrate synergies between various channels
+- Created and presented campaign decks containing audience insights, KPI analyses, and other insights to drive future campaign strategy
 ```
 ### [Target Media Partners](https://www.targetmediapartners.com/) - Los Angeles, CA  
 **Business Analyst – Digital Advertising**
