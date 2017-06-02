@@ -22,7 +22,12 @@ matt.j.livingston.40@gmail.com
 **Senior Analyst – Programmatic Media**
 ```markdown 
 October 2016 - Present
--- Test
+-- Senior Analyst covering high profile accounts totalling millions of dollars a quarter
+-- Mentor junior analysts on industry standards and teach python for automation purposes 
+-- Recommend campaign optimizations to client teams to drive better performance  
+-- Develop custom PostgreSQL statements for reporting and campaign insights  
+-- Developed and deployed a Flask/Python web application which predicts performance at 
+incremental budget
 ```
 ### [Perk](https://perk.com/) - Austin, TX  
 **Data Analyst – Mobile Rewards Network**
@@ -32,8 +37,8 @@ January 2016 – June 2016
 -- Provided analytical support for over 20 apps and web properties 
 -- Consolidated financial reporting that comes from over 10 ad networks 
 -- Built daily ad hoc queries in various SQL platforms – BigQuery, RazorSQL, and MySQL
--- Integrated database tables, Google Analytics, Attribution reporting, Google Sheets 
-and other data sources into BIME (BI tool) to reveal business insights
+-- Integrated database tables, Google Analytics, Attribution reporting, Google Sheets and 
+other data sources into BIME (BI tool) to reveal business insights
 -- Manipulated GB size files in RStudio that was not possible in Excel 
 -- Coded market basket analysis using R to determine user adoption of apps
 -- Coded extensive text-cleaning and text-standardizing commands in R
@@ -49,22 +54,26 @@ June 2015 – January 2016
 -- Unified data streams coming from Ad Servers, DSPs, viewability vendors, and Salesforce 
 into Datorama for real time campaign analysis
 -- Utilized cross media attribution tools to illustrate synergies between various channels
--- Created and presented campaign decks containing audience insights, KPI analyses, and other insights to drive future campaign strategy
+-- Created and presented campaign decks containing audience insights, KPI analyses, and other 
+insights to drive future campaign strategy
 ```
 ### [Target Media Partners](https://www.targetmediapartners.com/) - Los Angeles, CA  
 **Business Analyst – Digital Advertising**
 ```markdown
 August 2014 – June 2015
 
-Directly managed over $3 million in account revenue    
-Managed fastest growing digital product – Responsible for 1500% of growth
-Wrote Excel macros to automate campaign management for $2 million in account revenue – Saved 10 hours a week in management time
-Developed systematic approaches for campaign management 
-Defined process flows for campaign fulfillment using JIRA
-Analyzed historical data to find actionable management trends
-Used SQL Server for campaign management, ad hoc requests, data analysis, and stored procedures  
-Managed campaigns in AdWords, DFP, DCM/Bid Manager, Thinknear, and TubeMogul advertising platforms
-Analyzed web analytics and lead generation via Google Analytics 
+-- Directly managed over $3 million in account revenue    
+-- Managed fastest growing digital product – Responsible for 1500% of growth
+-- Wrote Excel macros to automate campaign management for $2 million in account revenue – Saved 
+10 hours a week in management time
+-- Developed systematic approaches for campaign management 
+-- Defined process flows for campaign fulfillment using JIRA
+-- Analyzed historical data to find actionable management trends
+-- Used SQL Server for campaign management, ad hoc requests, data analysis, and 
+stored procedures  
+-- Managed campaigns in AdWords, DFP, DCM/Bid Manager, Thinknear, and TubeMogul 
+advertising platforms
+-- Analyzed web analytics and lead generation via Google Analytics 
 ```
 ## EDUCATION
 ---
