@@ -86,4 +86,3 @@ advertising platforms
 | Major: Chemistry
 | Overall GPA: 3.7/4.0, Major GPA 3.8/4.0
 | Dean’s List, Graduated with Distinction, Golden Key International Honor Society, Delta Upsilon Fraternity
-
