@@ -1,7 +1,7 @@
 # Matt Livingston 
 ---
 ```markdown 
-Austin, TX 78704
+Atlanta, GA 30308
 matt.j.livingston.40@gmail.com
 ```
 >_**Experienced digital professional with a scientific training – Analytically minded with a passion for solving complex problems that have no immediate answer**_
