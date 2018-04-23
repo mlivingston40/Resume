@@ -18,10 +18,20 @@ matt.j.livingston.40@gmail.com
 
 ## EXPERIENCE
 ---
+### [RentPath](https://www.rentpath.com/) - Atlanta, GA
+**Analytics Lead – Online Rental Marketplace**
+```markdown
+November 2017 - Present
+-- Lead Analyst supporting 6 product managers across 4 websites
+-- Mentor junior analysts and teach python for automation purposes
+-- Build Tableau dashboards supporting sales, product, and executive leadership
+-- Develop Stored Procedures in SQL Server for table creation
+-- Develop python scripts to deploy on AWS Lambda for custom reporting 
+```
 ### [Quantcast](https://www.quantcast.com/) - Austin, TX 
 **Senior Analyst – Programmatic Media**
 ```markdown 
-October 2016 - Present
+October 2016 - November 2017
 -- Senior Analyst covering high profile accounts totalling millions of dollars a quarter
 -- Mentor junior analysts on industry standards and teach python for automation purposes 
 -- Recommend campaign optimizations to client teams to drive better performance  
