@@ -23,10 +23,10 @@ matt.j.livingston.40@gmail.com
 ```markdown
 November 2017 - June 2018
 -- Lead Analyst supporting 6 product managers across 4 websites
--- Mentored junior analysts and teach python for automation purposes
--- Built Tableau dashboards supporting sales, product, and executive leadership
+-- Mentored junior analysts and taught python for automation purposes
+-- Built Tableau dashboards that supported sales, product, and executive leadership
 -- Developed Stored Procedures in SQL Server for table creation
--- Developed python scripts to deploy on AWS Lambda for custom reporting 
+-- Developed python scripts and deployed on AWS Lambda for custom reporting 
 ```
 ### [Quantcast](https://www.quantcast.com/) - Austin, TX 
 **Senior Analyst – Programmatic Media**
