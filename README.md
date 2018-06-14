@@ -1,7 +1,7 @@
 # Matt Livingston 
 ---
 ```markdown 
-Atlanta, GA 30308
+San Juan, PR 00907
 matt.j.livingston.40@gmail.com
 ```
 >_**Experienced digital professional with a scientific training – Analytically minded with a passion for solving complex problems that have no immediate answer**_
@@ -21,12 +21,12 @@ matt.j.livingston.40@gmail.com
 ### [RentPath](https://www.rentpath.com/) - Atlanta, GA
 **Analytics Lead – Online Rental Marketplace**
 ```markdown
-November 2017 - Present
+November 2017 - June 2018
 -- Lead Analyst supporting 6 product managers across 4 websites
--- Mentor junior analysts and teach python for automation purposes
--- Build Tableau dashboards supporting sales, product, and executive leadership
--- Develop Stored Procedures in SQL Server for table creation
--- Develop python scripts to deploy on AWS Lambda for custom reporting 
+-- Mentored junior analysts and teach python for automation purposes
+-- Built Tableau dashboards supporting sales, product, and executive leadership
+-- Developed Stored Procedures in SQL Server for table creation
+-- Developed python scripts to deploy on AWS Lambda for custom reporting 
 ```
 ### [Quantcast](https://www.quantcast.com/) - Austin, TX 
 **Senior Analyst – Programmatic Media**
