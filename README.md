@@ -33,10 +33,10 @@ November 2017 - June 2018
 ```markdown 
 October 2016 - November 2017
 -- Senior Analyst covering high profile accounts totalling millions of dollars a quarter
--- Mentor junior analysts on industry standards and teach python for automation purposes 
--- Recommend campaign optimizations to client teams to drive better performance  
--- Develop custom PostgreSQL statements for reporting and campaign insights  
--- Build ad hoc Tableau dashboards for various stakeholders in the company  
+-- Mentored junior analysts on industry standards and taught python for automation purposes 
+-- Recommended campaign optimizations to client teams to drive better performance  
+-- Developed custom PostgreSQL statements for reporting and campaign insights  
+-- Built ad hoc Tableau dashboards for various stakeholders in the company  
 -- Developed and deployed (on AWS) a Flask/Python web application which predicts 
 performance at incremental budget for any live campaign within the company 
 ```
